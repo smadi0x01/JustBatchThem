@@ -2,8 +2,8 @@
 <summary><strong>What does this script do?</strong></summary>
   
 - Associate ".ransom" extention with default text editor (Recommend: replace with new extention).
-• Create Local Administrator Silent User (Recommend: Change username & password).
-• Create Firewall Rule & Allow Remote Desktop.
+- Create Local Administrator Silent User (Recommend: Change username & password).
+- Create Firewall Rule & Allow Remote Desktop.
 • Clear Windows Event Logs.
 • Clear Windows Shadow Copies.
 • Disable Windows Offline Safe Boot.
