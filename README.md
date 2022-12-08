@@ -1,5 +1,5 @@
 <details>
-<summary><h1><strong>What does this script do?</strong></h1></summary>
+ <h3><summary><strong>What does this script do?</strong></summary></h3>
  
 - Associate ".ransom" extension with default text editor (Recommended: replace with new extension).
 - Create Local Administrator Silent User (Recommended: Change username & password).
