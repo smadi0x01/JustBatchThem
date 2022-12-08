@@ -1,4 +1,5 @@
-<summary><strong>Support HackTricks and get benefits!</strong></summary>
+<details>
+<summary><strong>What does this script do?</strong></summary>
 • Associate ".ransom" extention with default text editor (Recommend: replace with new extention).
 • Create Local Administrator Silent User (Recommend: Change username & password).
 • Create Firewall Rule & Allow Remote Desktop.
@@ -48,4 +49,4 @@ ackupExecRPCService
 BackupExecManagementService
 BackupExecJobEngine
 BackupExecDeviceMediaService
-
+</details>
