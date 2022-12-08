@@ -1,6 +1,6 @@
 <details>
-## What does this script do?
-  
+<summary><h1><strong>What does this script do?</strong></h1></summary>
+ 
 - Associate ".ransom" extension with default text editor (Recommended: replace with new extension).
 - Create Local Administrator Silent User (Recommended: Change username & password).
 - Create Firewall Rule & Allow Remote Desktop.
