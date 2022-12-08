@@ -1,5 +1,6 @@
 ## Batch Script Does:
-• Associate ".ransom" extention with default text editor (Recommend: replace with new extention).
+
+### • Associate ".ransom" extention with default text editor (Recommend: replace with new extention).
 • Create Local Administrator Silent User (Recommend: Change username & password).
 • Create Firewall Rule & Allow Remote Desktop.
 • Clear Windows Event Logs.
