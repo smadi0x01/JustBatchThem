@@ -12,7 +12,7 @@
 - Disable Windows Defender ExploitGuard MDM policy.
 - Uninstall Windows Defender / Features.
 
-- Kill & Remove any of the following Endpoints:
+### Kill & Remove any of the following Endpoints:
 - Avast Premium Security
 - Avast Free Antivirus
 - Avast Endpoint Protection
@@ -36,7 +36,7 @@
 - Panda WatchGuard Endpoint Security
 - Webroot SecureAnywhere
 
-- Kill any of the following running processes:
+### Kill any of the following running processes:
 - Zoolz 2 Service
 - Veeam Backup Catalog Data Service
 - Symantec System Recovery
